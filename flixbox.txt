@@ -1,6 +1,6 @@
 #:usuario
-nome=Ric
-senha=Ric12
+nome=TESTE
+senha=TESTE.COM
 validade=2029-08-19 
 bloqueado=true 
 
