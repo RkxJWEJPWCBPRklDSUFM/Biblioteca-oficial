@@ -1,13 +1,9 @@
-#:usuario
-nome=TESTE
-senha=TESTE.COM
-validade=2029-08-19 
-bloqueado=true 
+
 
 #:usuario
 nome=TESTE
 senha=TESTE.COM
-validade=2026-07-04 
+validade=2026-07-09 
 bloqueado=false
 
 #:usuario
@@ -17,7 +13,7 @@ validade=2029-08-19
 bloqueado=true 
 
 #:usuario
-nome=pedro
-senha=pedro7778
+nome=565YTU
+senha=TUTYTY
 validade=2029-08-19 
 bloqueado=false
