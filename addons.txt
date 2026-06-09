@@ -17,6 +17,6 @@ name="FLIXBOX OFICIAL"
 url="https://www.mediafire.com/file/6fq2sdnxzx0zn5a/Flixbox.zip/file"
 iconimage="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbo2icon.png?raw=true"
 fanart="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.png?raw=true"
-description="COM ADDON DO FLIXBOX OFICIAL TEM VOCÊ TEM FILMES SÉRIES E MUITO MAIS!"
+description="COM ADDON DO FLIXBOX OFICIAL VOCÊ TEM FILMES SÉRIES E MUITO MAIS!"
 skin_id="pvr.iptvsimple"
 
