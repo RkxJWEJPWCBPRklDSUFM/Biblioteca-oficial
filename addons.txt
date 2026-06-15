@@ -20,8 +20,8 @@ fanart="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/fli
 description="COM ADDON DO FLIXBOX OFICIAL VOCÊ TEM FILMES SÉRIES E MUITO MAIS!"
 skin_id="pvr.iptvsimple"
 
-name="TEMA 2.0-BETA"
-url="https://www.mediafire.com/file/lgu0222qmavut2g/FLIXBOXTESTE.zip/file"
+name="TEMA 2.0"
+url="https://www.mediafire.com/file/uw9hpqmtu69pvvw/skin2.0.zip/file"
 iconimage="flixbox.icon.png"
 fanart="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.png?raw=true"
 description="atenção esse tema é uma versão Beta se você não quiser perder suas configurações recomendo que não instale"
