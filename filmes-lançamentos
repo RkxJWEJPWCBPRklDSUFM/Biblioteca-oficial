@@ -3,6 +3,6 @@ url="https://kodishmediacenter.github.io/kodi19/addons/plugin.video.hidratuxedo.
 iconimage="https://image.tmdb.org/t/p/original/iILiJSRViTEcF23MHhGCbVm3mfW.jpg"
 fanart=""
 description="Os campeões favoritos dos fãs – agora acompanhados pelo próprio Johnny Cage – são colocados uns contra os outros numa sangrenta e derradeira batalha, sem regras ou limites, para derrotar o governo sombrio de Shao Kahn."
-skin_id=""
+skin_id="plugin.video.hidratuxedo"
 
 
