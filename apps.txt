@@ -12,3 +12,10 @@ iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/teste.png"
 description="Flixbox é uma versão modificada do Kodi com ele você sente mais leveza rapidez para navegar pelos conteúdos dos seus addons favoritos, ele contém alguns recursos que é especialmente para colaborador  para ajudar o desenvolvimento do projeto do flixbox"
 skin_id="skin.flixbox"
+
+name="KODI BETA"
+url="https://www.mediafire.com/file/mjxy68k18w1liru/kodi_original.apk/file"
+iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3KixuvTCMJ_C3peXuxCEXJyZJ73mm7sVqUPuHvyhyw&s=10"
+fanart="https://c4.wallpaperflare.com/wallpaper/880/801/230/kodi-xbmc-digital-art-wallpaper-preview.jpg"
+description="O Kodi está disponível como aplicativo nativo para os sistemas operacionais Android, Linux, Mac OS X, iOS e Windows, funcionando na maioria das arquiteturas de processador comuns."
+skin_id="skin.flixbox"
