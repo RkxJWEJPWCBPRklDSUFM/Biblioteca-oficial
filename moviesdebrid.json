@@ -2,7 +2,7 @@
     "items": [
         {
             "type": "dir",
-            "title": "Trending",
+            "title": "FILMES",
             "link": "trakt/movies/trending",
             "summary": "Trending movies"
         },
