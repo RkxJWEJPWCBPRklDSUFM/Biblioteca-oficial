@@ -1,8 +1,8 @@
 
 
 #:usuario
-nome=TESTE
-senha=TESTE.COM
+nome=Robson
+senha=2026007
 validade=2026-07-09 
 bloqueado=false
 
