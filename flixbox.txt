@@ -13,7 +13,7 @@ validade=2029-08-19
 bloqueado=true 
 
 #:usuario
-nome=565YTU
-senha=TUTYTY
+nome=HDTESTE.COM
+senha=HDTESTE.COM
 validade=2029-08-19 
 bloqueado=false
