@@ -7,13 +7,14 @@ validade=2026-07-09
 bloqueado=false
 
 #:usuario
+nome=TESTEHD
+senha=2026hd
+validade=2026-07-09 
+bloqueado=false
+
+#:usuario
 nome=joao
 senha=joao2
 validade=2029-08-19 
 bloqueado=true 
 
-#:usuario
-nome=HDTESTE.COM
-senha=HDTESTE.COM
-validade=2026-07-09
-bloqueado=false
