@@ -5,4 +5,11 @@ fanart=""
 description="Os campeões favoritos dos fãs – agora acompanhados pelo próprio Johnny Cage – são colocados uns contra os outros numa sangrenta e derradeira batalha, sem regras ou limites, para derrotar o governo sombrio de Shao Kahn."
 skin_id="plugin.video.hidratuxedo"
 
+name="lista de filmes top 10 1.0"
+url=""
+iconimage="https://raw.githubusercontent.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/refs/heads/main/top%20filmes.png"
+fanart=""
+description="Os Maiores Clássicos de Todos os TemposBaseado no consenso mundial de críticos e especialistas do cinema:"
+skin_id="top10"
+
 
