@@ -7,7 +7,7 @@ description="Chihiro e seus pais estão se mudando para uma cidade diferente. A 
 skin_id="plugin.video.hidratuxedo"
 
 name="As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada"
-url="https://www.mediafire.com/file/0uo4ve8srt39csm/As+Crônicas+de+Nárnia+A+Viagem+do+Peregrino+da+Alvorada+(2010)+[tmdbid=10140].rar/file"
+url="https://www.mediafire.com/file/mygd3ri6atf6v6m/As+Crônicas+de+Nárnia+A+Viagem+do+Peregrino+da+Alvorada+(2010).zip/file"
 iconimage="https://image.tmdb.org/t/p/original/axMY6DSfkMdgUzejBqAPagynr6w.jpg"
 fanart="https://image.tmdb.org/t/p/original/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg"
 description="Lúcia, Edmundo e Eustáquio retornam para Nárnia, onde encontram com príncipe Caspian, agora rei, e outros amigos. Buscando os Sete Fidalgos Desaparecidos de Telmar, eles começam uma nova aventura a bordo do navio Peregrino da Alvorada e irão encarar guerreiros, dragões, anões e tritões."
