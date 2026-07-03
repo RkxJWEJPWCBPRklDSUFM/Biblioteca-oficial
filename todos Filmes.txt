@@ -13,4 +13,11 @@ fanart=""
 description="Depois do suicídio de sua mãe, Nica recebe a visita de sua autoritária irmã Barb, que pretende ajudar nos arranjos do funeral. Sua filha traz um boneco ruivo que chegou curiosamente pelos correios. Quando uma série de assassinatos aterrorizam a vizinhança, Nica começa a suspeitar que o brinquedo tenha alguma relação com estes fatos, mas não sabe que Chucky está de volta para resolver casos pessoais de mais de vinte anos atrás."
 skin_id="plugin.video.hidratuxedo"
 
+name="355"
+url="https://www.mediafire.com/file/4f1pyiuqo6srw7o/"
+iconimage="https://image.tmdb.org/t/p/original/9brqipKJpoh5AvZhJCBwLNDBAdQ.jpg"
+fanart=""
+description="Um grupo de agentes femininas de elite, provenientes de agências governamentais americanas, britânicas, chinesas, colombianas e alemãs, une-se para tentar impedir que uma organização adquira uma arma mortal capaz de mergulhar o mundo no caos."
+skin_id="plugin.video.hidratuxedo"
+
 
