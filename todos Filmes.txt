@@ -13,4 +13,11 @@ fanart="https://image.tmdb.org/t/p/original/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg"
 description="Lúcia, Edmundo e Eustáquio retornam para Nárnia, onde encontram com príncipe Caspian, agora rei, e outros amigos. Buscando os Sete Fidalgos Desaparecidos de Telmar, eles começam uma nova aventura a bordo do navio Peregrino da Alvorada e irão encarar guerreiros, dragões, anões e tritões."
 skin_id="plugin.video.hidratuxedo"
 
+name="A Maldição de Chucky"
+url="https://www.mediafire.com/file/bl7ih3xli94gy8c/A+Maldição+de+Chucky+(2013).zip/file"
+iconimage="https://image.tmdb.org/t/p/original/uR9Pa7yed4fL73oxqd0xW3K1gDH.jpg"
+fanart="https://image.tmdb.org/t/p/original/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg"
+description="Depois do suicídio de sua mãe, Nica recebe a visita de sua autoritária irmã Barb, que pretende ajudar nos arranjos do funeral. Sua filha traz um boneco ruivo que chegou curiosamente pelos correios. Quando uma série de assassinatos aterrorizam a vizinhança, Nica começa a suspeitar que o brinquedo tenha alguma relação com estes fatos, mas não sabe que Chucky está de volta para resolver casos pessoais de mais de vinte anos atrás."
+skin_id="plugin.video.hidratuxedo"
+
 
