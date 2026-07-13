@@ -13,8 +13,8 @@ fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/he
 description="E aí procurando por uma lista de IPTV simples clientes do Portugal agora você encontrou baixa já essa configuração divirta-se assistindo os melhores canais do português portugal."
 skin_id="pvr.iptvsimple"
 
-name="FLIXBOX OFICIAL 2"
-url="https://www.mediafire.com/file/3c30ei8nvgp7e5u"
+name="FLIXBOX OFICIAL"
+url="https://www.mediafire.com/file/6fq2sdnxzx0zn5a"
 iconimage="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbo2icon.png?raw=true"
 fanart="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.png?raw=true"
 description="COM ADDON DO FLIXBOX OFICIAL VOCÊ TEM FILMES SÉRIES E MUITO MAIS!"
