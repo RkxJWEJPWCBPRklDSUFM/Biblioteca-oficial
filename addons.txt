@@ -14,7 +14,7 @@ description="E aí procurando por uma lista de IPTV simples clientes do Portugal
 skin_id="pvr.iptvsimple"
 
 name="FLIXBOX OFICIAL"
-url="https://www.mediafire.com/file/uw9hpqmtu69pvvw/skin2.0.zip/file"
+url="https://www.mediafire.com/file/mx31rj3ctnjn8y5"
 iconimage="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbo2icon.png?raw=true"
 fanart="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.png?raw=true"
 description="COM ADDON DO FLIXBOX OFICIAL VOCÊ TEM FILMES SÉRIES E MUITO MAIS!"
