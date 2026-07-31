@@ -1,5 +1,5 @@
 
-name="FLIXBOX 1.4"
+name="FLIXBOX-PRO 1.5 2026-08-01"
 url="https://www.mediafire.com/file/a4o4cwp74gbzvqo/FLIXBOX-+OFICIAL.apk/file"
 iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox1.4.png"
 fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/teste.png"
