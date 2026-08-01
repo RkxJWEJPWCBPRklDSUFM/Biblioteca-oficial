@@ -1,21 +1,7 @@
 
 name="FLIXBOX-PRO 1.5 2026-08-01"
-url="https://www.mediafire.com/file/a4o4cwp74gbzvqo/FLIXBOX-+OFICIAL.apk/file"
+url="https://www.mediafire.com/file/k2cozi8oeorwxf7/"
 iconimage="https://raw.githubusercontent.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/refs/heads/main/Flixbox%20pro.png"
 fanart="https://github.com/RkxJWEJPWCBPRklDSUFM/Biblioteca-oficial/blob/main/flixbox1.5.png?raw=true"
 description="Flixbox é uma versão modificada do Kodi com ele você sente mais leveza rapidez para navegar pelos conteúdos dos seus addons favoritos, ele contém alguns recursos que é especialmente para colaborador  para ajudar o desenvolvimento do projeto do flixbox"
-skin_id="skin.flixbox"
-
-name="FLIXBOX 1.4 32 bits"
-url="https://www.mediafire.com/file/koikvxy6wq0ogkn/FLIXBOX-1.4-32.apk/file"
-iconimage="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/flixbox1.4.png"
-fanart="https://raw.githubusercontent.com/anonimo2027/Biblioteca-oficial/refs/heads/main/icon/teste.png"
-description="Flixbox é uma versão modificada do Kodi com ele você sente mais leveza rapidez para navegar pelos conteúdos dos seus addons favoritos, ele contém alguns recursos que é especialmente para colaborador  para ajudar o desenvolvimento do projeto do flixbox"
-skin_id="skin.flixbox"
-
-name="KODI BETA"
-url="https://www.mediafire.com/file/mjxy68k18w1liru/kodi_original.apk/file"
-iconimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3KixuvTCMJ_C3peXuxCEXJyZJ73mm7sVqUPuHvyhyw&s=10"
-fanart="https://c4.wallpaperflare.com/wallpaper/880/801/230/kodi-xbmc-digital-art-wallpaper-preview.jpg"
-description="O Kodi está disponível como aplicativo nativo para os sistemas operacionais Android, Linux, Mac OS X, iOS e Windows, funcionando na maioria das arquiteturas de processador comuns."
 skin_id="skin.flixbox"
